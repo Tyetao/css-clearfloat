@@ -6,7 +6,7 @@
 高度塌陷：浮动元素父元素高度自适应（父元素不写高度时，子元素写了浮动后，父元素会发生高度塌陷）
 
 ### 需要用到清除浮动的属性clear, 
-clear:left | right | both | none | inherit：元素的某个方向上不能有浮动元素 
+clear:left | right | both | none | inherit：元素的某个方向上不能有浮动元素 <br>
 clear:both：在左右两侧均不允许浮动元素。
 
 ### 具体清楚浮动的方法主要一下几种：
