@@ -77,8 +77,8 @@ overflow: hidden;
 
 同时为了兼容 IE6，7 同样需要配合zoom使用例如：
 
-.clear:after{content:'';display:block;clear:both;height:0;overflow:hidden;visibility:hidden;}
-.clear{zoom:1;}
+.clearfix:after{content:'';display:block;clear:both;height:0;overflow:hidden;visibility:hidden;}
+.clearfix{zoom:1;}
 
 
 需要注意的东西：
