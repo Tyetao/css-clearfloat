@@ -44,7 +44,7 @@ clear:both：在左右两侧均不允许浮动元素。
  缺点：父级的margin左右auto失效，无法使用margin: 0 auto;居中了
  ```
 
->5、 br 清浮动
+>5、 br 清浮动（haslayout）
 
 ```
 <div class="box">
